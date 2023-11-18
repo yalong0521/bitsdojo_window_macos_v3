@@ -3,7 +3,7 @@
 # Run `pod lib lint bitsdojo_window_macos.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'bitsdojo_window_macos'
+  s.name             = 'bitsdojo_window_macos_'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
